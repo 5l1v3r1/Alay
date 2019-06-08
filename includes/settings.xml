@@ -1,0 +1,42 @@
+<vehicules>
+  <vehicule>
+    <numeroDePlaque>105TN3030</numeroDePlaque>
+    <marque>Golf</marque>
+    <type>Citadine</type>
+    <couleur>Noire</couleur>
+    <nomProprietaire>Safi Amine</nomProprietaire>
+    <cinProprietaire>11058360</cinProprietaire>
+    <dateAjout>3 juin 2017</dateAjout>
+    <nombrePassage>0</nombrePassage>
+  </vehicule>
+  <vehicule>
+    <numeroDePlaque>100TN7227</numeroDePlaque>
+    <marque>Kia</marque>
+    <type>Citadine</type>
+    <couleur>Bleue</couleur>
+    <nomProprietaire>Loussaief Iskander</nomProprietaire>
+    <cinProprietaire>11043812</cinProprietaire>
+    <dateAjout>3 juin 2017</dateAjout>
+    <nombrePassage>0</nombrePassage>
+  </vehicule>
+  <vehicule>
+    <numeroDePlaque>169TN2995</numeroDePlaque>
+    <marque>Mini</marque>
+    <type>Citadine</type>
+    <couleur>Noire</couleur>
+    <nomProprietaire>Fakhfakh Sami</nomProprietaire>
+    <cinProprietaire>11046915</cinProprietaire>
+    <dateAjout>3 juin 2017</dateAjout>
+    <nombrePassage>3</nombrePassage>
+  </vehicule>
+  <vehicule>
+    <numeroDePlaque>145TN8533</numeroDePlaque>
+    <marque>Polo</marque>
+    <type>Citadine</type>
+    <couleur>Noire</couleur>
+    <nomProprietaire>Iheb Besbes</nomProprietaire>
+    <cinProprietaire>12345678</cinProprietaire>
+    <dateAjout>3 juin 2017</dateAjout>
+    <nombrePassage>0</nombrePassage>
+  </vehicule>
+</vehicules>
